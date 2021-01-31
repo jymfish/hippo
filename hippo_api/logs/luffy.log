@@ -1,0 +1,305 @@
+INFO 2021-01-26 07:34:52,301 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 07:36:18,613 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 07:47:30,886 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 07:47:34,360 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-01-26 07:47:34,465 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-01-26 07:47:34,535 basehttp 154 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-01-26 07:47:34,536 basehttp 154 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-01-26 07:47:34,540 basehttp 154 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+WARNING 2021-01-26 07:47:34,546 log 228 Not Found: /favicon.ico
+WARNING 2021-01-26 07:47:34,546 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1975
+INFO 2021-01-26 07:52:50,685 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 07:53:10,241 basehttp 154 "GET / HTTP/1.1" 200 16348
+INFO 2021-01-26 16:17:09,921 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 16:47:54,559 autoreload 203 /home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/xadmin/plugins/importexport.py changed, reloading.
+INFO 2021-01-26 16:47:54,970 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 17:00:03,790 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-01-26 17:00:04,020 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:29:26,301 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-01-26 18:29:30,113 log 228 Not Found: /
+WARNING 2021-01-26 18:29:30,114 basehttp 154 "GET / HTTP/1.1" 404 1925
+WARNING 2021-01-26 18:29:30,173 log 228 Not Found: /favicon.ico
+WARNING 2021-01-26 18:29:30,174 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1976
+INFO 2021-01-26 18:29:36,676 basehttp 154 "GET /xadmin HTTP/1.1" 301 0
+INFO 2021-01-26 18:29:36,714 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4151
+INFO 2021-01-26 18:29:36,771 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 200 1888
+INFO 2021-01-26 18:29:36,782 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 200 240196
+INFO 2021-01-26 18:29:36,794 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 200 4361
+INFO 2021-01-26 18:29:36,798 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 200 8376
+INFO 2021-01-26 18:29:36,805 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 200 175
+INFO 2021-01-26 18:29:36,809 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 200 126432
+INFO 2021-01-26 18:29:36,812 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 200 8195
+INFO 2021-01-26 18:29:36,812 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 200 15069
+INFO 2021-01-26 18:29:36,813 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 200 21658
+INFO 2021-01-26 18:29:36,820 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4158
+INFO 2021-01-26 18:29:36,820 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 200 4561
+INFO 2021-01-26 18:29:36,828 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 200 42543
+INFO 2021-01-26 18:29:36,856 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 200 3401
+INFO 2021-01-26 18:29:36,857 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 200 4165
+INFO 2021-01-26 18:29:36,857 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 200 58327
+INFO 2021-01-26 18:29:36,940 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 200 44432
+INFO 2021-01-26 18:31:58,523 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-01-26 18:31:58,774 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:32:44,127 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:33:25,240 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:33:48,974 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:34:31,594 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:34:41,120 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-26 18:42:10,723 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-01-26 18:42:11,182 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 08:43:47,507 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-01-27 08:43:50,464 log 228 Not Found: /
+WARNING 2021-01-27 08:43:50,464 basehttp 154 "GET / HTTP/1.1" 404 1925
+INFO 2021-01-27 08:44:02,941 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4151
+INFO 2021-01-27 08:44:02,967 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,969 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,972 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,977 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,981 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,986 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,986 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,987 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4158
+INFO 2021-01-27 08:44:02,988 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,989 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:02,990 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:03,020 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:03,030 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:03,034 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:03,035 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2021-01-27 08:44:03,076 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+WARNING 2021-01-27 08:51:00,771 log 228 Not Found: /
+WARNING 2021-01-27 08:51:00,772 basehttp 154 "GET / HTTP/1.1" 404 1925
+WARNING 2021-01-27 08:51:00,828 log 228 Not Found: /favicon.ico
+WARNING 2021-01-27 08:51:00,829 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 1976
+INFO 2021-01-27 08:51:04,731 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 4151
+INFO 2021-01-27 08:51:04,753 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 4158
+INFO 2021-01-27 08:51:09,234 basehttp 154 "POST /xadmin/ HTTP/1.1" 302 0
+INFO 2021-01-27 08:51:09,319 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 9820
+INFO 2021-01-27 08:51:09,385 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 200 790
+INFO 2021-01-27 08:51:09,386 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 200 3208
+INFO 2021-01-27 08:51:09,391 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 200 1000
+INFO 2021-01-27 08:51:09,393 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 09:17:40,536 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/apps/users/__init__.py changed, reloading.
+INFO 2021-01-27 09:17:40,784 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 09:22:35,762 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 09:23:25,140 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 11:37:02,829 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-01-27 11:37:03,283 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 11:37:12,184 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13218
+INFO 2021-01-27 11:37:12,198 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,199 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,203 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,204 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,205 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,205 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,208 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 200 31918
+INFO 2021-01-27 11:37:12,212 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 200 3489
+INFO 2021-01-27 11:37:12,214 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,215 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,219 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:12,243 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,244 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,259 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,260 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,265 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,266 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,289 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,290 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,305 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:12,309 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2021-01-27 11:37:16,765 basehttp 154 "GET /xadmin/xadmin/log/ HTTP/1.1" 200 29020
+INFO 2021-01-27 11:37:16,781 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 200 3763
+INFO 2021-01-27 11:37:16,783 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/css/datepicker.css HTTP/1.1" 200 10225
+INFO 2021-01-27 11:37:16,793 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.bootstrap3.css HTTP/1.1" 200 10602
+INFO 2021-01-27 11:37:16,794 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 200 2319
+INFO 2021-01-27 11:37:16,794 basehttp 154 "GET /static/xadmin/vendor/select2/select2.css HTTP/1.1" 200 19226
+INFO 2021-01-27 11:37:16,794 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.css HTTP/1.1" 200 8425
+INFO 2021-01-27 11:37:16,800 basehttp 154 "GET /static/xadmin/vendor/selectize/selectize.js HTTP/1.1" 200 98602
+INFO 2021-01-27 11:37:16,800 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 200 529
+INFO 2021-01-27 11:37:16,801 basehttp 154 "GET /static/xadmin/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js HTTP/1.1" 200 32656
+INFO 2021-01-27 11:37:16,803 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:16,807 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 200 1990
+INFO 2021-01-27 11:37:16,808 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 200 1105
+INFO 2021-01-27 11:37:16,808 basehttp 154 "GET /static/xadmin/js/xadmin.widget.datetime.js HTTP/1.1" 200 2979
+INFO 2021-01-27 11:37:16,825 basehttp 154 "GET /static/xadmin/vendor/select2/select2.js HTTP/1.1" 200 104906
+INFO 2021-01-27 11:37:16,829 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 200 1948
+WARNING 2021-01-27 11:37:16,839 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1765
+INFO 2021-01-27 11:37:16,841 basehttp 154 "GET /static/xadmin/js/xadmin.widget.select.js HTTP/1.1" 200 1344
+WARNING 2021-01-27 11:37:16,876 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1765
+INFO 2021-01-27 11:37:22,432 basehttp 154 "GET /xadmin/reversion/revision/ HTTP/1.1" 200 27858
+WARNING 2021-01-27 11:37:22,451 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1765
+INFO 2021-01-27 11:37:22,455 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+WARNING 2021-01-27 11:37:22,522 basehttp 154 "GET /static/xadmin/vendor/select2/select2_locale_zh-Hans.js HTTP/1.1" 404 1765
+INFO 2021-01-27 11:37:24,537 basehttp 154 "GET /xadmin/auth/group/ HTTP/1.1" 200 22424
+INFO 2021-01-27 11:37:24,553 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:25,360 basehttp 154 "GET /xadmin/auth/user/ HTTP/1.1" 200 32755
+INFO 2021-01-27 11:37:25,375 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 200 4198
+INFO 2021-01-27 11:37:25,378 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:26,016 basehttp 154 "GET /xadmin/auth/permission/ HTTP/1.1" 200 84836
+INFO 2021-01-27 11:37:26,038 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:27,025 basehttp 154 "GET /xadmin/auth/permission/ HTTP/1.1" 200 84836
+INFO 2021-01-27 11:37:27,045 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:37:36,064 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13218
+INFO 2021-01-27 11:37:36,088 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 11:44:08,146 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-01-27 11:45:08,742 log 228 Not Found: /users/
+WARNING 2021-01-27 11:45:08,742 basehttp 154 "GET /users/ HTTP/1.1" 404 2120
+INFO 2021-01-27 11:45:14,254 basehttp 154 "GET /users/login HTTP/1.1" 301 0
+ERROR 2021-01-27 11:45:14,296 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/renderers.py", line 723, in render
+    template = loader.get_template(self.template)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2021-01-27 11:45:14,297 basehttp 154 "GET /users/login/ HTTP/1.1" 500 91549
+WARNING 2021-01-27 11:49:27,929 log 228 Not Found: /user/login
+WARNING 2021-01-27 11:49:27,929 basehttp 154 "POST /user/login HTTP/1.1" 404 2080
+INFO 2021-01-27 11:50:38,672 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-01-27 11:50:47,632 log 228 Not Found: /user/login
+WARNING 2021-01-27 11:50:47,632 basehttp 154 "POST /user/login HTTP/1.1" 404 2080
+ERROR 2021-01-27 11:51:14,733 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/renderers.py", line 723, in render
+    template = loader.get_template(self.template)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2021-01-27 11:51:14,734 basehttp 154 "GET /users/login/ HTTP/1.1" 500 91549
+INFO 2021-01-27 11:52:55,891 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-01-27 11:53:00,001 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/renderers.py", line 723, in render
+    template = loader.get_template(self.template)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2021-01-27 11:53:00,001 basehttp 154 "GET /users/login/ HTTP/1.1" 500 91684
+ERROR 2021-01-27 14:07:21,476 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/renderers.py", line 723, in render
+    template = loader.get_template(self.template)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2021-01-27 14:07:21,476 basehttp 154 "GET /users/login/ HTTP/1.1" 500 91684
+INFO 2021-01-27 14:07:26,301 autoreload 578 Watching for file changes with StatReloader
+ERROR 2021-01-27 14:07:30,532 log 228 Internal Server Error: /users/login/
+Traceback (most recent call last):
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 145, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/core/handlers/base.py", line 143, in _get_response
+    response = response.render()
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/response.py", line 106, in render
+    self.content = self.rendered_content
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/rest_framework/renderers.py", line 723, in render
+    template = loader.get_template(self.template)
+  File "/home/hkxpz/.virtualenvs/hippo_api/lib/python3.6/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: rest_framework/api.html
+ERROR 2021-01-27 14:07:30,532 basehttp 154 "GET /users/login/ HTTP/1.1" 500 91684
+WARNING 2021-01-27 14:07:37,106 log 228 Not Found: /user/login
+WARNING 2021-01-27 14:07:37,106 basehttp 154 "POST /user/login HTTP/1.1" 404 2080
+INFO 2021-01-27 14:08:03,591 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-27 14:28:33,316 autoreload 578 Watching for file changes with StatReloader
+WARNING 2021-01-27 14:28:54,318 log 228 Bad Request: /user/login/
+WARNING 2021-01-27 14:28:54,319 basehttp 154 "POST /user/login/ HTTP/1.1" 400 68
+WARNING 2021-01-27 14:29:06,438 log 228 Bad Request: /user/login/
+WARNING 2021-01-27 14:29:06,439 basehttp 154 "POST /user/login/ HTTP/1.1" 400 68
+INFO 2021-01-27 14:29:49,535 basehttp 154 "POST /user/login/ HTTP/1.1" 200 185
+INFO 2021-01-27 14:30:11,751 basehttp 154 "POST /user/login/ HTTP/1.1" 200 185
+INFO 2021-01-27 14:41:50,948 basehttp 154 "POST /user/login/ HTTP/1.1" 200 185
+INFO 2021-01-27 14:42:08,158 basehttp 154 "GET /xadmin/ HTTP/1.1" 200 13218
+INFO 2021-01-27 14:42:08,203 basehttp 154 "GET /static/xadmin/vendor/bootstrap/css/bootstrap.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,212 basehttp 154 "GET /static/xadmin/css/xadmin.responsive.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,212 basehttp 154 "GET /static/xadmin/css/themes/bootstrap-xadmin.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,218 basehttp 154 "GET /static/xadmin/vendor/font-awesome/css/font-awesome.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,221 basehttp 154 "GET /static/xadmin/css/xadmin.page.dashboard.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,221 basehttp 154 "GET /static/xadmin/css/xadmin.main.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,225 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 14:42:08,225 basehttp 154 "GET /static/xadmin/css/xadmin.plugins.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,227 basehttp 154 "GET /static/xadmin/vendor/jquery/jquery.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,231 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.mouse.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,231 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.widget.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,232 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.core.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,252 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.sortable.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,268 basehttp 154 "GET /static/xadmin/vendor/bootstrap/js/bootstrap.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,274 basehttp 154 "GET /static/xadmin/js/xadmin.main.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,277 basehttp 154 "GET /static/xadmin/js/xadmin.responsive.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,282 basehttp 154 "GET /static/xadmin/js/xadmin.page.dashboard.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,282 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.portal.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,297 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.themes.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,324 basehttp 154 "GET /static/xadmin/vendor/jquery-ui/jquery.ui.effect.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:08,385 basehttp 154 "GET /static/xadmin/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.0.3 HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:16,034 basehttp 154 "GET /xadmin/auth/user/add/ HTTP/1.1" 200 16324
+INFO 2021-01-27 14:42:16,046 basehttp 154 "GET /static/xadmin/css/xadmin.form.css HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:16,047 basehttp 154 "GET /static/xadmin/js/xadmin.page.form.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:16,051 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 14:42:28,559 basehttp 154 "POST /xadmin/auth/user/add/ HTTP/1.1" 200 16895
+INFO 2021-01-27 14:42:28,574 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 14:42:39,722 basehttp 154 "POST /xadmin/auth/user/add/ HTTP/1.1" 200 16759
+INFO 2021-01-27 14:42:39,740 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 14:42:51,706 basehttp 154 "POST /xadmin/auth/user/add/ HTTP/1.1" 302 0
+INFO 2021-01-27 14:42:51,762 basehttp 154 "GET /xadmin/auth/user/ HTTP/1.1" 200 35605
+INFO 2021-01-27 14:42:51,779 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.details.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:51,780 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.bookmark.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:51,783 basehttp 154 "GET /static/xadmin/js/xadmin.page.list.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:51,784 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.filters.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:42:51,788 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 14:42:51,814 basehttp 154 "GET /static/xadmin/js/xadmin.plugin.actions.js HTTP/1.1" 304 0
+INFO 2021-01-27 14:43:18,696 basehttp 154 "POST /user/login/ HTTP/1.1" 200 172
+INFO 2021-01-27 14:50:57,375 basehttp 154 "POST /user/login/ HTTP/1.1" 200 172
+INFO 2021-01-27 14:52:16,640 basehttp 154 "GET /xadmin/auth/user/ HTTP/1.1" 200 35320
+INFO 2021-01-27 14:52:16,658 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 15:19:47,582 basehttp 154 "GET /xadmin/auth/permission/ HTTP/1.1" 200 84836
+INFO 2021-01-27 15:19:47,602 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-27 15:19:48,667 basehttp 154 "GET /xadmin/auth/group/ HTTP/1.1" 200 22424
+INFO 2021-01-27 15:19:48,687 basehttp 154 "GET /xadmin/jsi18n/ HTTP/1.1" 200 7722
+INFO 2021-01-28 09:02:25,643 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/__init__.py changed, reloading.
+INFO 2021-01-28 09:02:29,515 autoreload 578 Watching for file changes with StatReloader
+INFO 2021-01-28 09:26:54,508 autoreload 203 /home/hkxpz/project/hippo_api/hippo_api/settings/dev.py changed, reloading.
+INFO 2021-01-28 09:26:55,007 autoreload 578 Watching for file changes with StatReloader
