@@ -21,6 +21,10 @@ export default new Router({
         {
           path: 'host/',
           component: Host
+        },
+        {
+          path: 'showcenter/',
+          component: ShowCenter
         }
       ]
     },

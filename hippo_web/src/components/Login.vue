@@ -17,12 +17,12 @@
 
 					<div class="rember">
 						<p>
-							<input type="checkbox" class="no" name="a"/>
+							<input  v-model = "remember_me" type="checkbox" class="no" name="a"/>
 							<span>记住密码</span>
 						</p>
 
 					</div>
-					<button class="login_btn">登录</button>
+					<button class="login_btn" @click="login">登录</button>
 
 				</div>
 
@@ -43,7 +43,23 @@ export default {
   },
 
   methods:{
-
+    login(){
+      this.$axios.post(`${this.$settings.HOST}/user/login/`,{
+          username:this.username,
+          password:this.password,
+      }).then((res)=>{
+        console.log(res);
+        if (this.remember_me){
+          localStorage.token = res.data.token;
+          sessionStorage.removeItem( key='token');
+          console.log(res.data.token)
+        }else {
+          sessionStorage.token = res.data.token
+          localStorage.removeItem(key='token')
+        }
+        $this.route.push('/hippo/showcenter/')
+      })
+    }
   },
 
 };

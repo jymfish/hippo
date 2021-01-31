@@ -56,6 +56,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
+
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -66,9 +67,12 @@ MIDDLEWARE = [
 ]
 
 # CORS组的配置信息
-CORS_ALLOWED_ORIGINS  =  [
-    "http://127.0.0.1:8080", #前端地址，可域名，可ip:port
-]
+CORS_ORIGIN_WHITELIST = (
+    'http://www.hippo.com:8080',
+)
+# CORS_ALLOWED_ORIGINS  =  [
+#
+# ]
 CORS_ALLOW_CREDENTIALS = False
 
 ROOT_URLCONF = 'hippo_api.urls'

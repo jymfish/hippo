@@ -70,44 +70,44 @@
       return {
         collapsed: false,
         menu_list: [
-          {id: 1,icon:'mail', title: '展示中心', tube: '', 'menu_url': '/hippo/workbench', children: []},
+          {id: 1,icon:'mail', title: '展示中心', tube: '', 'menu_url': '/hippo/showcenter', children: []},
           {
             id: 2,icon:'mail', title: '资产管理', 'menu_url': '/hippo/host', children: []
           },
           {
-            id: 3,icon:'bold', title: '批量任务', tube: '', 'menu_url': '/hippo/workbench', children: [
+            id: 3,icon:'bold', title: '批量任务', tube: '', 'menu_url': '/hippo/showcenter', children: [
               {id: 10, icon:'mail',title: '执行任务', 'menu_url': '/hippo/multi_exec'},
               {id: 11, icon:'mail', title: '命令管理', 'menu_url': '/hippo/template_manage'},
             ]
           },
           {
 
-            id: 4,icon:'highlight', title: '代码发布', tube: '', 'menu_url': '/hippo/workbench', children: [
+            id: 4,icon:'highlight', title: '代码发布', tube: '', 'menu_url': '/hippo/showcenter', children: [
               {id: 12,  title: '应用管理', 'menu_url': '/hippo/release'},
               {id: 13,  title: '发布申请', 'menu_url': '/hippo/release'},
             ]
           },
-          {id: 5,icon:'mail', title: '定时计划', tube: '', 'menu_url': '/hippo/workbench', children: []},
+          {id: 5,icon:'mail', title: '定时计划', tube: '', 'menu_url': '/hippo/showcenter', children: []},
           {
-            id: 6,icon:'mail', title: '配置管理', tube: '', 'menu_url': '/hippo/workbench', children: [
+            id: 6,icon:'mail', title: '配置管理', tube: '', 'menu_url': '/hippo/showcenter', children: [
               {id: 14,  title: '环境管理', 'menu_url': '/hippo/environment'},
-              {id: 15,  title: '服务配置', 'menu_url': '/hippo/workbench'},
-              {id: 16,  title: '应用配置', 'menu_url': '/hippo/workbench'},
+              {id: 15,  title: '服务配置', 'menu_url': '/hippo/showcenter'},
+              {id: 16,  title: '应用配置', 'menu_url': '/hippo/showcenter'},
             ]
           },
-          {id: 7,icon:'mail', title: '监控', tube: '', 'menu_url': '/hippo/workbench', children: []},
+          {id: 7,icon:'mail', title: '监控', tube: '', 'menu_url': '/hippo/showcenter', children: []},
           {
-            id: 8,icon:'mail', title: '报警', tube: '', 'menu_url': '/hippo/workbench', children: [
-              {id: 17,  title: '报警历史', 'menu_url': '/hippo/workbench'},
-              {id: 18,  title: '报警联系人', 'menu_url': '/hippo/workbench'},
-              {id: 19,  title: '报警联系组', 'menu_url': '/hippo/workbench'},
+            id: 8,icon:'mail', title: '报警', tube: '', 'menu_url': '/hippo/showcenter', children: [
+              {id: 17,  title: '报警历史', 'menu_url': '/hippo/showcenter'},
+              {id: 18,  title: '报警联系人', 'menu_url': '/hippo/showcenter'},
+              {id: 19,  title: '报警联系组', 'menu_url': '/hippo/showcenter'},
             ]
           },
           {
-            id: 9,icon:'mail', title: '用户管理', tube: '', 'menu_url': '/hippo/workbench', children: [
-              {id: 20,  title: '账户管理', tube: '', 'menu_url': '/hippo/workbench'},
-              {id: 21,  title: '角色管理', tube: '', 'menu_url': '/hippo/workbench'},
-              {id: 22,  title: '系统设置', tube: '', 'menu_url': '/hippo/workbench'},
+            id: 9,icon:'mail', title: '用户管理', tube: '', 'menu_url': '/hippo/showcenter', children: [
+              {id: 20,  title: '账户管理', tube: '', 'menu_url': '/hippo/showcenter'},
+              {id: 21,  title: '角色管理', tube: '', 'menu_url': '/hippo/showcenter'},
+              {id: 22,  title: '系统设置', tube: '', 'menu_url': '/hippo/showcenter'},
             ]
           },
         ]
